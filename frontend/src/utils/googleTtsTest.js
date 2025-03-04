@@ -1,7 +1,7 @@
 // Google TTS API Test
 // This file tests the Google Text-to-Speech API with the provided API key
 
-const API_KEY = 'AIzaSyDebIbZ9f5W-CVeNtin31cojCz9gfILh5A'; // Replace with your actual API key
+const API_KEY = 'Replace with your actual API key'; // Replace with your actual API key
 
 // Function to test Google TTS API
 async function testGoogleTTS(text) {
