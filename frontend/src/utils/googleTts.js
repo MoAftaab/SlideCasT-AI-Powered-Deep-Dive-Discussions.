@@ -1,5 +1,5 @@
 // Google Text-to-Speech API Integration
-const API_KEY = import.meta.env.VITE_GOOGLE_TTS_API_KEY || 'AIzaSyDebIbZ9f5W-CVeNtin31cojCz9gfILh5A';
+const API_KEY = import.meta.env.VITE_GOOGLE_TTS_API_KEY || 'Enter Your Key';
 
 // Available voices in Google TTS
 const GOOGLE_VOICES = {
